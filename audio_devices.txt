@@ -1,0 +1,26 @@
+--- PyAudio Devices ---
+Input Device id  0  -  Microsoft Sound Mapper - Input
+Input Device id  1  -  Microphone Array (Intel® Smart 
+
+--- SpeechRecognition Microphones ---
+Microphone with name "Microsoft Sound Mapper - Input" found for `Microphone(device_index=0)`
+Microphone with name "Microphone Array (Intel® Smart " found for `Microphone(device_index=1)`
+Microphone with name "Microsoft Sound Mapper - Output" found for `Microphone(device_index=2)`
+Microphone with name "Speaker (Realtek(R) Audio)" found for `Microphone(device_index=3)`
+Microphone with name "Primary Sound Capture Driver" found for `Microphone(device_index=4)`
+Microphone with name "Microphone Array (Intel® Smart Sound Technology for Digital Microphones)" found for `Microphone(device_index=5)`
+Microphone with name "Primary Sound Driver" found for `Microphone(device_index=6)`
+Microphone with name "Speaker (Realtek(R) Audio)" found for `Microphone(device_index=7)`
+Microphone with name "Speaker (Realtek(R) Audio)" found for `Microphone(device_index=8)`
+Microphone with name "Microphone Array (Intel® Smart Sound Technology for Digital Microphones)" found for `Microphone(device_index=9)`
+Microphone with name "Microphone (Realtek HD Audio Mic input)" found for `Microphone(device_index=10)`
+Microphone with name "Stereo Mix (Realtek HD Audio Stereo input)" found for `Microphone(device_index=11)`
+Microphone with name "Speakers 1 (Realtek HD Audio output with SST)" found for `Microphone(device_index=12)`
+Microphone with name "Speakers 2 (Realtek HD Audio output with SST)" found for `Microphone(device_index=13)`
+Microphone with name "PC Speaker (Realtek HD Audio output with SST)" found for `Microphone(device_index=14)`
+Microphone with name "Headphones 1 (Realtek HD Audio 2nd output with SST)" found for `Microphone(device_index=15)`
+Microphone with name "Headphones 2 (Realtek HD Audio 2nd output with SST)" found for `Microphone(device_index=16)`
+Microphone with name "PC Speaker (Realtek HD Audio 2nd output with SST)" found for `Microphone(device_index=17)`
+Microphone with name "Microphone Array 1 ()" found for `Microphone(device_index=18)`
+Microphone with name "Microphone Array 2 ()" found for `Microphone(device_index=19)`
+Microphone with name "Microphone Array 3 ()" found for `Microphone(device_index=20)`
