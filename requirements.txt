@@ -1,0 +1,11 @@
+pyttsx3
+pyaudio
+wikipedia
+pyjokes
+pywhatkit
+vosk
+psutil
+spacy
+requests
+webrtcvad-wheels
+numpy

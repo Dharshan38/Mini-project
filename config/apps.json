@@ -1,0 +1,27 @@
+{
+    "chrome": [
+        "chrome",
+        "browser",
+        "internet",
+        "google"
+    ],
+    "notepad": [
+        "notepad",
+        "text editor",
+        "note"
+    ],
+    "calculator": [
+        "calculator",
+        "calc",
+        "math"
+    ],
+    "paint": [
+        "paint",
+        "mspaint",
+        "draw"
+    ],
+    "whatsapp": [
+        "whatsapp",
+        "chat app"
+    ]
+}
