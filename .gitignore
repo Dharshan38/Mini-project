@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.zip
+vosk-model-*/
+.vscode/
+.idea/
+*.log
